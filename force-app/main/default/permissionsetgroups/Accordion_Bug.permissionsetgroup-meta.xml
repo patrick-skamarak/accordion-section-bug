@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>PSG for accordion bug stuff</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Accordion Bug</label>
+    <permissionSets>Accordion_App_Access</permissionSets>
+    <permissionSets>Account_Access</permissionSets>
+    <permissionSets>Some_Component_Access</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

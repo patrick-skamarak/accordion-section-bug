@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Accordion_Bug</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Accordion App Access</label>
+</PermissionSet>
